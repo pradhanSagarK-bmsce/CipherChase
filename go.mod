@@ -1,3 +1,3 @@
-module github.com/ajnataUttistha-pradhan2005/CipherChase
+module github.com/pradhanSagarK-bmsce/CipherChase
 
 go 1.24.2
